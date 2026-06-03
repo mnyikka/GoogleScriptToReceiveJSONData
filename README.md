@@ -10,7 +10,7 @@ structure["columns"] = columns;
 //(One dimensional array of the columns)
 
 structure["intent"] = intent; 
-//(intent can be either scrapeuploads or scrapedownloads)
+//(intent can be either scrapeuploads or scrapedownloads) For uploading, its basically scrapeuploads
 
 structure["destinationSheet"] = destinationSheet; 
 //(The destination sheet name, this will be created if it does not exist, and the columns specified on the first row of the sheet)
